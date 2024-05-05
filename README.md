@@ -16,7 +16,7 @@ This directory contains the Fine Tuning files for all three models.
 ## Dataset
 
 The dataset used for this project is Ornamental Plants.
-It is uploaded in this Google Drive: 
+It is uploaded in this Google Drive: https://drive.google.com/drive/folders/1jvnHGOoIyv3TmSX4RW1awxsc4qmnNK6l?usp=sharing
 
 ### Categories
 
